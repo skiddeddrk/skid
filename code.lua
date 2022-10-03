@@ -1,3 +1,4 @@
+--// CREDS ENCRYPT NOT MY CODE 
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
