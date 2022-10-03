@@ -12,6 +12,4 @@ getgenv().Alts = {
     123456789,
 }
 
---// Main code, made by remorse skidded by drk
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/skiddeddrk/skid/main/code.lua"))() end)
